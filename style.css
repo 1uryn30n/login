@@ -18,19 +18,7 @@
     color: #a0a5a8;
   }
   
-  .navbar{
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-start;
-    height: 100px;
-    width: 100%;
-    background-color: #181818;
-    padding: 20px;
-    margin: auto;
-    left: 0;
-    position: fixed;
-    right: 0;
-  }
+ 
   .menu{
 
     border-radius: 6px;
@@ -41,7 +29,7 @@
     padding: 1%;
   }
   .entrar {
-    display: none;
+    display: flex;
     position: relative;
     width: 1000px;
     min-width: 1000px;
